@@ -24,4 +24,6 @@ Example:
 
 * nvm set-colors cgYmW Set text colors to cyan, green, bold yellow, magenta, and white
 
+* nvm ls list installed versions of node (via nvm)
+ 
 * to remove, delete, or uninstall nvm - just remove the $NVM_DIR folder (usually ~/.nvm)
