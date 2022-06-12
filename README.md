@@ -2,7 +2,7 @@
 
 Example:
 
--- nvm install 8.0.0 Install a specific version number
+--nvm install 8.0.0 Install a specific version number
 
 -- nvm use 8.0 Use the latest available 8.0.x release
 
